@@ -40,8 +40,6 @@ The goal of this project is to [insert your specific ML goal here — e.g., "pre
 - F1 Score: `YY`
 - AUC Score: `ZZ`
 
-> _Note: Replace metrics above with your actual results._
-
 ---
 
 ## 🛠️ Tech Stack
@@ -51,5 +49,3 @@ The goal of this project is to [insert your specific ML goal here — e.g., "pre
 - NumPy
 - Matplotlib / Seaborn
 - Scikit-learn
-- Jupyter Notebook
-- [Other libraries you used]
